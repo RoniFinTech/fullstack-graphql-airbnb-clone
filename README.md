@@ -11,3 +11,8 @@ A Fullstack GraphQL Airbnb Clone with React and React Native
 6. Website and App view listings
 7. Website and App chat
 8. Feature requests
+
+## Notes
+
+- Typescript
+- Ant Design
