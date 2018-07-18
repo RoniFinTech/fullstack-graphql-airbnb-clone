@@ -9,8 +9,9 @@ A Fullstack GraphQL Airbnb Clone with React and React Native
 4. Website and App forgot password
 5. Website and App create listing
 6. Website and App view listings
-7. Website and App chat
-8. Feature requests
+7. logout
+8. Website and App chat
+9. Feature requests
 
 ## Notes
 
